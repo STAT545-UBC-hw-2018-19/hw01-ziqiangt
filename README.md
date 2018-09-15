@@ -2,7 +2,7 @@
 # Hi, here is the STAT545 hw of ziqiang
 
 ## Overview
-This file helps to navigate the directory for new vistors. You can click **[STAT545A](http://stat545.com/)** to view the details about this cource.
+This file helps to navigate the directory for new vistors. You can click **[STAT545A](http://stat545.com/)** to view more details about this cource.
 
 #### Here is the directory of my homework
 
