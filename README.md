@@ -16,4 +16,4 @@ This file helps to navigate the directory for new vistors. You can click **[STAT
 
 I am a :cn: boy and my hometown is chengdu, sichuan province. If you are a spicy lover, chengdu is a good place to visit. I am a Electrical and Computer Engineering student who plans to do something related system on chip:
 
-[homework01solution](https://github.com/STAT545-UBC-students/hw01-ziqiangt/tree/master/hw01-solutions/)
+![alt text](https://github.com/STAT545-UBC-students/hw01-ziqiangt/blob/master/soc.jpeg)
