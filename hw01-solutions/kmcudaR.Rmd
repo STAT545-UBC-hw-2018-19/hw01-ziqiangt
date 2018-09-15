@@ -1,6 +1,8 @@
 ---
-title: "kmcudaR"
-output: html_document
+title: "agridat"
+author: ziqiang tang
+data: 2019/09/15
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
