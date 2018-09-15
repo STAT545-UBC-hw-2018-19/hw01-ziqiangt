@@ -18,6 +18,6 @@ I am a :cn: and my hometown is chengdu, sichuan province. If you are a spicy lov
 
 ![alt text](https://github.com/STAT545-UBC-students/hw01-ziqiangt/blob/master/soc2.png)
 
-Here is my basic info:
+**Here is my basic info:**
 - :trollface:Name: Ziqiang Tang
 - :email:Email: ziqiangt@alumni.ubc.ca
