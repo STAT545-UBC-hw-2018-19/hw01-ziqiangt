@@ -2,7 +2,9 @@
 title: "agridat"
 author: ziqiang tang
 data: 2019/09/15
-output: github_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
