@@ -17,21 +17,42 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
+First let's load the agridat package:
 ```{r}
 library(agridat)
-head(aastveit.barley.covs)
-str(aastveit.barley.covs)
-ncol(aastveit.barley.covs)
-summary(aastveit.barley.covs)
 ```
 
+Then, let's return the first/last 6 rows:
+```{r}
+head(aastveit.barley.covs)    ##the default rows n=6L
+tail(aastveit.barley.covs,-6) ##the last 6 rows
+```
+Next, let's show the structure of this object
+```{r}
+str(aastveit.barley.covs, digits.d = 3)    ##default digits is 3
+covsdf <- data.frame(aastveit.barley.covs) ##store the data fram
+str(covsdf)                                ##show new structure
+```
+
+Now, let's get the number of rows or columns present in this object
+```{r}
+nrow(aastveit.barley.covs)  ##9 rows
+ncol(aastveit.barley.covs)  ##20 columns
+dim(aastveit.barley.covs)   ##9 rows, 20 colums
+```
+
+Now, let's see the summary of each column
+```{r}
+summary(aastveit.barley.covs) ##include min, max, mean, median
+```
 
 ## Including Plots
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+lets's plot the R1 vs year
+```{r}
+plot(R1 ~ year, aastveit.barley.covs)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
