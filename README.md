@@ -20,4 +20,4 @@ I am a :cn: boy and my hometown is chengdu, sichuan province. If you are a spicy
 
 Here is my basic info:
 - :trollface:Name: Ziqiang Tang
-- :email:Email: ziqiangt@163.com
+- :email:Email: ziqiangt@alumni.ubc.ca
