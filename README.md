@@ -8,7 +8,7 @@ This file helps to navigate the directory for new vistors. You can click **[STAT
 
 - You can click to go to my homework solutions
 	+ homework01 
-		* [homework01 solution](https://github.com/STAT545-UBC-students/hw01-ziqiangt/tree/master/hw01-solutions/)
+		* [homework01 solution](https://github.com/STAT545-UBC-students/hw01-ziqiangt)
 	+ homework02
 		* [homework02 solution](https://github.com/STAT545-UBC-students/hw01-ziqiangt/tree/master/hw01-solutions/)
 
